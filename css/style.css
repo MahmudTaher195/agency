@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+  
+ 
+
+}
+body{
+    font-family: 'Inter', sans-serif;
+}
+.navbar{
+    position: absolute;
+    width: 100%;
+}
+.custom-btn a{
+    padding: 15px 42px;
+    background: rgb(73, 73, 220);
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+}
+.navbar-nav{
+    column-gap: 15px;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 0px !important;
+
+}
+.nav-item .nav-link{
+    color: #FFF
+   
+
+}
+.banner-main {
+    padding: 150px 0 50px 0;
+}
+.banner-main h1{
+    color: #FFF;
+    font-size: 75px;
+    font-weight: 700;
+ 
+
+}
+.banner-main p{
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 400;
+}
+#banner{
+    background-image: url(../images/banner\ \(3\).png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+ 
+   
+}
+#our-success{
+    padding-top: 100px;
+    margin: auto;
+  
+}.our-success-main{
+    background: #a3d8e2;
+    padding: 20px;
+    border-radius: 10px;
+}
+.our-success-right{
+    display: flex;
+    justify-content: space-between;
+}
+.item{
+    background: #a3d8e2;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.container-conten{
+    
+    margin: auto;
+}
+.container-conten h4{
+    color: #b175c0;
+
+}
+.picer-menu{
+    border-radius: 15px;
+    column-gap: 20px;
+}
+.top{
+    display: flex;
+}
+
+
+#Provided{
+    padding-top: 100px;
+    margin: auto;
+}
+.Provided-main{
+    padding-top: 20px;
+    gap: 20px;
+    border-radius: 15px;
+
+}
+.our-service{
+    padding-top: 20px;
+}
+.picer-menu{
+    padding: 20px;
+    
+}
+#recent-work{
+    margin: auto;
+    background: rgb(224, 224, 221);
+    padding-top: 100px;
+} 
+.our-work{
+    padding: 50px;
+    margin-left: 50px;
+    width: 100%;
+    background: #ece2e2;
+    
+
+}
+
+.work-menu{
+    
+    margin: auto;
+    align-items: center;
+    padding: 50px;
+    width: 100%;
+
+  
+}
+
+.should-conten{
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    background: #a3d8e2;
+    color: black;
+    margin: auto;
+ 
+
+
+}
+.innovative{
+     padding-top: 50px;
+     background: #b09393;
+
+}
+.innovat-menu{
+    padding-top: 80px;
+}
+/* .s-picer{
+    width: 50%;
+    background: #8eced8;
+} */
+     
+
+
